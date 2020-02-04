@@ -1,0 +1,80 @@
+{
+  "@@last_modified": "2019-12-03T22:25:48.192554",
+  "@@locale":"zh_CN",
+  "remainingEmailsMessage": "{howMany,plural, =0{没有未读邮件}=1{有{howMany}封未读邮件}other{有{howMany}封未读邮件}}",
+  "@remainingEmailsMessage": {
+    "description": "How many emails remain after archiving.",
+    "type": "text",
+    "placeholders": {
+      "howMany": {
+        "example": 42
+      }
+    }
+  },
+  "logout": "退出登录",
+  "@logout": {
+    "description": "logout",
+    "type": "text",
+    "placeholders": {}
+  },
+  "logoutTip": "确定退出登陆吗？",
+  "@logoutTip": {
+    "description": "logoutTip",
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancel": "取消",
+  "@cancel": {
+    "description": "cancel",
+    "type": "text",
+    "placeholders": {}
+  },
+  "yes": "确定",
+  "@yes": {
+    "description": "yes",
+    "type": "text",
+    "placeholders": {}
+  },
+  "userNameOrEmail": "用户名或者邮箱",
+  "@userNameOrEmail": {
+    "description": "userNameOrEmail",
+    "type": "text",
+    "placeholders": {}
+  },
+  "userName": "用户名",
+  "@userName": {
+    "description": "userName",
+    "type": "text",
+    "placeholders": {}
+  },
+  "home": "首页",
+  "@home": {
+    "description": "home",
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "登录",
+  "@login": {
+    "description": "login",
+    "type": "text",
+    "placeholders": {}
+  },
+  "noDescription": "数据为空",
+  "@noDescription": {
+    "description": "noDescription",
+    "type": "text",
+    "placeholders": {}
+  },
+  "theme": "主题",
+  "@theme": {
+    "description": "theme",
+    "type": "text",
+    "placeholders": {}
+  },
+  "language": "语言",
+  "@language": {
+    "description": "language",
+    "type": "text",
+    "placeholders": {}
+  }
+}
